@@ -25,4 +25,5 @@ These folders hold input data only. The case study, assignment and assessment in
 - [case-study/data](case-study/data/): datasets for the module case study
 - [assignments/A1/data](assignments/A1/data/): datasets for Assignment 1
 - [assignments/A2/data](assignments/A2/data/): datasets for Assignment 2
+- [assignments/A3/data](assignments/A3/data/): datasets for Assignment 3
 - [summative/data](summative/data/): datasets for the summative assessment

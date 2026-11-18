@@ -1,0 +1,1001 @@
+SN,Attrition,Prior_Experience_Years,Education,Travel_For_Work,Work_Mode,Department,Monthly_Overtime
+1,No,2,Post Graduate,Yes,Office,Operations,Yes
+2,No,4,Graduate,Yes,Office,Sales,Yes
+3,No,4,Non Graduate,Yes,Hybrid,HR,No
+4,No,1,Non Graduate,No,Office,Sales,No
+5,No,4,Post Graduate,Yes,Office,Sales,No
+6,No,0,Graduate,No,Office,Operations,No
+7,Yes,4,Post Graduate,Yes,Office,Sales,No
+8,No,4,Graduate,No,Office,Finance,Yes
+9,No,0,Graduate,Yes,Office,Finance,No
+10,Yes,0,Post Graduate,No,Hybrid,IT,Yes
+11,No,3,Graduate,No,Hybrid,IT,No
+12,Yes,0,Graduate,Yes,Office,Finance,Yes
+13,Yes,5,Graduate,No,Office,Operations,Yes
+14,No,2,Non Graduate,Yes,Office,Finance,Yes
+15,No,4,Graduate,Yes,Office,Operations,Yes
+16,Yes,2,Graduate,Yes,Office,HR,Yes
+17,Yes,1,Non Graduate,No,Office,IT,Yes
+18,No,2,Graduate,Yes,Office,Operations,No
+19,No,5,Non Graduate,No,Hybrid,Operations,No
+20,Yes,0,Graduate,No,Office,Sales,No
+21,No,4,Non Graduate,Yes,Office,HR,No
+22,No,0,Post Graduate,No,Office,IT,No
+23,No,3,Non Graduate,No,Hybrid,Finance,No
+24,Yes,1,Non Graduate,Yes,Office,Sales,No
+25,No,4,Graduate,No,Hybrid,Operations,Yes
+26,Yes,0,Graduate,Yes,Office,Sales,No
+27,No,4,Post Graduate,Yes,Office,Sales,No
+28,No,5,Post Graduate,Yes,Office,HR,No
+29,No,3,Graduate,No,Hybrid,Finance,No
+30,No,2,Post Graduate,Yes,Office,Sales,No
+31,No,3,Graduate,No,Hybrid,Finance,No
+32,No,5,Non Graduate,No,Hybrid,Sales,No
+33,No,5,Graduate,No,Hybrid,Finance,No
+34,No,0,Graduate,Yes,Office,Sales,No
+35,No,5,Non Graduate,No,Hybrid,IT,Yes
+36,Yes,0,Non Graduate,No,Hybrid,Operations,No
+37,No,1,Post Graduate,Yes,Office,IT,No
+38,No,2,Graduate,No,Office,IT,No
+39,No,4,Graduate,No,Office,Operations,Yes
+40,No,3,Post Graduate,No,Hybrid,Sales,Yes
+41,No,5,Non Graduate,Yes,Hybrid,Operations,No
+42,No,0,Post Graduate,Yes,Office,HR,No
+43,No,4,Non Graduate,No,Office,IT,No
+44,No,4,Non Graduate,Yes,Office,Finance,No
+45,No,4,Post Graduate,No,Office,Operations,No
+46,No,3,Non Graduate,Yes,Office,HR,No
+47,No,1,Graduate,No,Hybrid,Sales,No
+48,Yes,2,Non Graduate,No,Hybrid,Sales,No
+49,No,3,Non Graduate,No,Office,Finance,No
+50,No,3,Non Graduate,Yes,Hybrid,HR,Yes
+51,Yes,5,Non Graduate,Yes,Hybrid,Operations,No
+52,Yes,1,Post Graduate,Yes,Office,HR,No
+53,No,1,Post Graduate,No,Hybrid,IT,No
+54,No,4,Graduate,No,Office,HR,No
+55,No,0,Graduate,Yes,Office,IT,Yes
+56,No,0,Graduate,Yes,Office,Operations,No
+57,No,4,Non Graduate,No,Office,HR,No
+58,Yes,1,Graduate,Yes,Office,Sales,Yes
+59,No,1,Graduate,No,Hybrid,HR,Yes
+60,No,4,Post Graduate,No,Office,Finance,Yes
+61,No,3,Graduate,No,Hybrid,Operations,Yes
+62,No,1,Graduate,No,Hybrid,Sales,No
+63,Yes,0,Post Graduate,Yes,Hybrid,IT,No
+64,No,5,Post Graduate,No,Hybrid,IT,No
+65,Yes,0,Graduate,Yes,Office,IT,No
+66,Yes,4,Graduate,Yes,Hybrid,Sales,No
+67,Yes,3,Non Graduate,Yes,Hybrid,Sales,No
+68,Yes,2,Post Graduate,Yes,Office,Finance,Yes
+69,No,1,Non Graduate,No,Hybrid,Sales,No
+70,No,4,Graduate,Yes,Hybrid,Sales,Yes
+71,No,1,Non Graduate,No,Hybrid,Finance,No
+72,No,1,Post Graduate,No,Office,HR,No
+73,No,5,Graduate,No,Office,HR,Yes
+74,No,0,Graduate,No,Office,HR,No
+75,Yes,3,Graduate,No,Office,Operations,No
+76,No,4,Non Graduate,No,Office,HR,No
+77,No,1,Graduate,No,Office,Finance,Yes
+78,No,2,Post Graduate,No,Hybrid,HR,No
+79,No,5,Graduate,Yes,Office,HR,No
+80,No,5,Non Graduate,Yes,Office,Operations,Yes
+81,Yes,0,Post Graduate,No,Office,HR,No
+82,No,3,Non Graduate,No,Hybrid,IT,No
+83,Yes,1,Non Graduate,Yes,Hybrid,IT,No
+84,No,5,Graduate,No,Hybrid,Sales,No
+85,No,3,Non Graduate,Yes,Office,Finance,No
+86,No,3,Graduate,Yes,Hybrid,HR,Yes
+87,Yes,3,Non Graduate,No,Hybrid,IT,Yes
+88,No,3,Post Graduate,No,Office,Finance,No
+89,Yes,2,Non Graduate,No,Office,Sales,Yes
+90,No,4,Graduate,No,Hybrid,Finance,No
+91,Yes,5,Graduate,No,Office,Sales,No
+92,No,5,Graduate,No,Office,IT,No
+93,No,4,Non Graduate,No,Office,IT,Yes
+94,Yes,5,Graduate,No,Office,Operations,No
+95,No,5,Non Graduate,Yes,Hybrid,Finance,No
+96,Yes,2,Post Graduate,No,Office,Sales,Yes
+97,Yes,4,Non Graduate,Yes,Office,Operations,Yes
+98,Yes,3,Graduate,No,Office,IT,Yes
+99,No,2,Graduate,Yes,Hybrid,Operations,No
+100,No,1,Non Graduate,No,Office,Finance,No
+101,No,0,Non Graduate,No,Hybrid,Finance,No
+102,No,0,Graduate,No,Hybrid,Finance,No
+103,No,0,Graduate,Yes,Hybrid,HR,No
+104,Yes,5,Post Graduate,No,Office,HR,Yes
+105,No,4,Post Graduate,No,Office,Sales,No
+106,Yes,3,Graduate,Yes,Office,Operations,No
+107,No,2,Graduate,No,Office,IT,No
+108,Yes,2,Graduate,No,Office,Sales,No
+109,No,3,Graduate,Yes,Office,Finance,No
+110,No,0,Graduate,No,Hybrid,Sales,No
+111,No,5,Graduate,No,Office,IT,No
+112,Yes,1,Graduate,Yes,Hybrid,Sales,Yes
+113,No,2,Non Graduate,No,Hybrid,Sales,No
+114,No,0,Post Graduate,Yes,Office,Sales,Yes
+115,No,3,Non Graduate,Yes,Office,IT,No
+116,No,1,Graduate,Yes,Hybrid,Finance,Yes
+117,Yes,3,Post Graduate,No,Office,HR,Yes
+118,No,2,Graduate,No,Office,Sales,No
+119,No,2,Post Graduate,No,Office,Finance,Yes
+120,No,3,Non Graduate,Yes,Hybrid,HR,No
+121,Yes,5,Post Graduate,Yes,Office,HR,No
+122,No,1,Graduate,No,Office,IT,Yes
+123,No,0,Graduate,No,Office,IT,Yes
+124,No,4,Post Graduate,No,Hybrid,HR,No
+125,No,5,Post Graduate,No,Office,IT,No
+126,No,1,Post Graduate,Yes,Hybrid,IT,No
+127,Yes,4,Graduate,No,Office,Operations,Yes
+128,Yes,1,Graduate,Yes,Office,Operations,No
+129,No,3,Post Graduate,No,Office,HR,Yes
+130,No,5,Post Graduate,Yes,Office,Finance,No
+131,No,5,Graduate,No,Hybrid,IT,Yes
+132,Yes,2,Graduate,Yes,Office,Sales,Yes
+133,Yes,4,Non Graduate,Yes,Office,Sales,No
+134,Yes,0,Graduate,No,Office,Finance,No
+135,No,3,Post Graduate,Yes,Office,HR,Yes
+136,Yes,4,Non Graduate,Yes,Office,Sales,No
+137,Yes,5,Post Graduate,Yes,Office,Operations,Yes
+138,No,2,Non Graduate,Yes,Office,Operations,No
+139,Yes,0,Post Graduate,No,Office,Operations,Yes
+140,Yes,3,Graduate,Yes,Office,Finance,No
+141,No,4,Non Graduate,Yes,Hybrid,Finance,No
+142,Yes,3,Post Graduate,Yes,Office,IT,No
+143,Yes,2,Graduate,Yes,Office,HR,No
+144,Yes,0,Post Graduate,No,Hybrid,Finance,No
+145,No,0,Graduate,No,Hybrid,HR,No
+146,Yes,5,Graduate,Yes,Office,Operations,Yes
+147,No,3,Graduate,No,Hybrid,Sales,Yes
+148,No,0,Post Graduate,No,Office,Finance,Yes
+149,No,5,Post Graduate,Yes,Hybrid,Sales,No
+150,Yes,1,Post Graduate,Yes,Office,Finance,No
+151,No,2,Non Graduate,Yes,Hybrid,Sales,Yes
+152,No,5,Non Graduate,No,Office,Operations,No
+153,No,2,Graduate,Yes,Office,Finance,No
+154,No,3,Non Graduate,Yes,Hybrid,Finance,Yes
+155,No,3,Post Graduate,No,Office,HR,Yes
+156,Yes,0,Post Graduate,No,Hybrid,HR,No
+157,No,5,Graduate,No,Office,Operations,No
+158,No,1,Non Graduate,Yes,Hybrid,HR,Yes
+159,No,3,Graduate,No,Hybrid,Sales,Yes
+160,No,2,Non Graduate,No,Office,Finance,Yes
+161,Yes,3,Graduate,Yes,Office,IT,No
+162,No,3,Non Graduate,No,Hybrid,Finance,Yes
+163,No,0,Post Graduate,Yes,Hybrid,Finance,No
+164,No,0,Graduate,No,Hybrid,IT,Yes
+165,No,4,Non Graduate,Yes,Office,Sales,Yes
+166,No,0,Graduate,No,Office,Operations,No
+167,No,5,Non Graduate,Yes,Office,Operations,No
+168,Yes,2,Post Graduate,Yes,Office,HR,Yes
+169,No,2,Graduate,No,Office,Finance,No
+170,Yes,1,Graduate,No,Office,HR,No
+171,Yes,1,Graduate,Yes,Office,IT,No
+172,No,0,Non Graduate,No,Hybrid,Operations,No
+173,Yes,4,Graduate,Yes,Hybrid,HR,Yes
+174,No,1,Graduate,Yes,Hybrid,HR,No
+175,No,1,Non Graduate,Yes,Hybrid,Operations,No
+176,No,4,Non Graduate,Yes,Office,HR,No
+177,No,3,Graduate,Yes,Hybrid,Finance,Yes
+178,No,1,Graduate,Yes,Office,HR,Yes
+179,No,5,Post Graduate,Yes,Office,Operations,No
+180,No,4,Post Graduate,Yes,Hybrid,Sales,Yes
+181,Yes,1,Graduate,Yes,Hybrid,Sales,No
+182,No,3,Graduate,Yes,Hybrid,Operations,No
+183,No,5,Non Graduate,Yes,Hybrid,Sales,No
+184,Yes,1,Graduate,No,Office,Sales,Yes
+185,Yes,0,Graduate,Yes,Hybrid,HR,Yes
+186,No,5,Graduate,No,Hybrid,HR,No
+187,No,1,Post Graduate,No,Hybrid,HR,No
+188,No,5,Post Graduate,Yes,Office,HR,Yes
+189,Yes,5,Non Graduate,No,Hybrid,Finance,Yes
+190,No,5,Graduate,Yes,Office,HR,No
+191,No,0,Graduate,Yes,Office,Operations,No
+192,No,4,Graduate,No,Office,Operations,No
+193,No,5,Non Graduate,No,Hybrid,HR,No
+194,No,3,Non Graduate,Yes,Hybrid,HR,Yes
+195,No,3,Graduate,No,Hybrid,Operations,Yes
+196,Yes,2,Graduate,Yes,Hybrid,Sales,No
+197,No,5,Post Graduate,No,Hybrid,Operations,No
+198,No,2,Non Graduate,No,Hybrid,HR,No
+199,No,2,Graduate,Yes,Hybrid,Operations,Yes
+200,No,5,Graduate,No,Office,Operations,No
+201,No,2,Graduate,No,Office,Operations,No
+202,No,3,Graduate,Yes,Office,IT,No
+203,Yes,1,Graduate,Yes,Hybrid,Operations,Yes
+204,Yes,1,Graduate,No,Office,Sales,Yes
+205,No,5,Post Graduate,Yes,Hybrid,Sales,No
+206,No,2,Graduate,No,Office,HR,Yes
+207,No,3,Non Graduate,Yes,Hybrid,Sales,No
+208,No,3,Non Graduate,Yes,Hybrid,HR,No
+209,No,3,Graduate,No,Hybrid,Sales,No
+210,No,5,Graduate,No,Hybrid,HR,No
+211,No,5,Graduate,No,Office,Finance,No
+212,No,2,Post Graduate,No,Office,Finance,No
+213,Yes,1,Post Graduate,Yes,Office,Finance,No
+214,Yes,2,Graduate,Yes,Hybrid,Sales,No
+215,No,4,Graduate,Yes,Office,HR,No
+216,No,4,Graduate,No,Office,Sales,No
+217,No,0,Graduate,No,Hybrid,IT,Yes
+218,Yes,0,Non Graduate,No,Hybrid,IT,No
+219,No,2,Graduate,No,Office,Sales,No
+220,No,3,Graduate,Yes,Hybrid,Sales,No
+221,Yes,1,Post Graduate,Yes,Hybrid,Finance,No
+222,No,4,Graduate,No,Office,Sales,Yes
+223,No,2,Post Graduate,No,Office,IT,No
+224,No,2,Graduate,No,Hybrid,IT,Yes
+225,No,3,Non Graduate,No,Hybrid,Sales,No
+226,Yes,4,Non Graduate,Yes,Hybrid,IT,Yes
+227,Yes,1,Post Graduate,Yes,Office,Sales,Yes
+228,No,4,Non Graduate,No,Hybrid,HR,No
+229,No,5,Post Graduate,Yes,Hybrid,Operations,Yes
+230,No,5,Post Graduate,No,Office,Sales,No
+231,Yes,4,Non Graduate,No,Office,Finance,Yes
+232,No,4,Post Graduate,Yes,Hybrid,Finance,No
+233,Yes,2,Post Graduate,Yes,Office,HR,Yes
+234,No,5,Non Graduate,No,Hybrid,IT,No
+235,No,3,Graduate,No,Office,Finance,No
+236,Yes,5,Graduate,No,Office,Sales,Yes
+237,No,2,Graduate,No,Office,Finance,No
+238,No,2,Post Graduate,Yes,Office,Finance,No
+239,Yes,2,Graduate,Yes,Hybrid,HR,No
+240,Yes,5,Graduate,No,Office,Finance,Yes
+241,No,1,Post Graduate,No,Hybrid,HR,No
+242,Yes,4,Graduate,Yes,Hybrid,Operations,No
+243,No,0,Graduate,No,Hybrid,HR,No
+244,No,3,Post Graduate,No,Hybrid,IT,No
+245,Yes,2,Graduate,Yes,Office,Finance,Yes
+246,No,4,Graduate,No,Office,Operations,No
+247,No,3,Graduate,No,Office,HR,No
+248,No,5,Post Graduate,No,Office,HR,Yes
+249,No,1,Graduate,No,Office,HR,No
+250,No,1,Post Graduate,Yes,Office,Operations,Yes
+251,Yes,1,Post Graduate,Yes,Hybrid,Sales,No
+252,Yes,5,Graduate,No,Hybrid,IT,No
+253,Yes,0,Non Graduate,Yes,Hybrid,Operations,Yes
+254,No,5,Graduate,No,Hybrid,Operations,Yes
+255,No,4,Graduate,No,Office,HR,No
+256,No,5,Post Graduate,No,Hybrid,Finance,No
+257,No,4,Graduate,Yes,Hybrid,Operations,Yes
+258,Yes,0,Post Graduate,No,Office,Finance,No
+259,Yes,3,Graduate,No,Hybrid,Finance,Yes
+260,Yes,2,Graduate,Yes,Hybrid,HR,Yes
+261,No,4,Non Graduate,No,Hybrid,Operations,No
+262,No,2,Graduate,No,Office,Finance,Yes
+263,No,1,Graduate,Yes,Office,Sales,No
+264,Yes,0,Post Graduate,No,Office,IT,No
+265,No,4,Graduate,Yes,Hybrid,IT,No
+266,No,1,Graduate,Yes,Hybrid,IT,No
+267,Yes,3,Post Graduate,No,Office,Finance,No
+268,No,5,Graduate,Yes,Office,HR,Yes
+269,No,0,Non Graduate,Yes,Hybrid,Operations,No
+270,No,2,Post Graduate,Yes,Office,Finance,No
+271,Yes,1,Graduate,Yes,Office,Sales,No
+272,No,0,Graduate,No,Office,HR,No
+273,No,0,Graduate,Yes,Office,Sales,No
+274,No,5,Graduate,Yes,Hybrid,IT,No
+275,No,1,Non Graduate,No,Hybrid,HR,No
+276,Yes,0,Graduate,No,Hybrid,Finance,Yes
+277,No,0,Post Graduate,No,Office,Operations,No
+278,No,3,Graduate,Yes,Office,Finance,No
+279,Yes,1,Post Graduate,No,Office,Sales,No
+280,No,1,Non Graduate,No,Office,Sales,No
+281,Yes,3,Post Graduate,No,Office,IT,Yes
+282,Yes,0,Graduate,Yes,Office,HR,Yes
+283,Yes,1,Graduate,Yes,Office,Sales,Yes
+284,No,2,Graduate,Yes,Office,IT,No
+285,No,1,Post Graduate,Yes,Hybrid,Sales,No
+286,No,0,Graduate,Yes,Office,IT,No
+287,No,0,Graduate,No,Office,IT,Yes
+288,No,3,Post Graduate,Yes,Office,HR,No
+289,Yes,2,Non Graduate,No,Hybrid,Sales,Yes
+290,Yes,1,Graduate,Yes,Office,Operations,Yes
+291,No,4,Graduate,No,Office,Sales,No
+292,No,1,Graduate,Yes,Office,Operations,No
+293,Yes,0,Graduate,Yes,Office,Finance,Yes
+294,No,3,Non Graduate,No,Office,Operations,No
+295,No,1,Graduate,No,Hybrid,IT,No
+296,No,4,Non Graduate,Yes,Office,IT,No
+297,Yes,4,Post Graduate,Yes,Hybrid,Finance,No
+298,Yes,4,Non Graduate,Yes,Office,Operations,Yes
+299,No,2,Graduate,No,Office,Sales,Yes
+300,No,5,Graduate,No,Hybrid,HR,No
+301,Yes,1,Non Graduate,Yes,Office,Operations,No
+302,No,0,Graduate,Yes,Office,Sales,Yes
+303,No,5,Graduate,No,Office,Finance,No
+304,Yes,4,Graduate,Yes,Hybrid,IT,Yes
+305,No,2,Graduate,No,Office,IT,No
+306,No,0,Graduate,Yes,Hybrid,IT,Yes
+307,No,5,Non Graduate,Yes,Office,IT,No
+308,No,0,Graduate,No,Office,Finance,No
+309,No,0,Non Graduate,No,Office,Operations,Yes
+310,Yes,0,Graduate,Yes,Office,Finance,Yes
+311,No,0,Graduate,No,Office,Operations,No
+312,Yes,2,Non Graduate,No,Hybrid,Finance,Yes
+313,No,2,Post Graduate,No,Office,HR,No
+314,No,3,Graduate,No,Hybrid,Sales,No
+315,No,4,Graduate,No,Hybrid,HR,Yes
+316,No,4,Graduate,No,Office,IT,Yes
+317,No,2,Graduate,No,Office,Sales,Yes
+318,No,1,Graduate,No,Office,HR,No
+319,No,2,Graduate,Yes,Office,Sales,No
+320,No,1,Graduate,No,Hybrid,Operations,Yes
+321,Yes,3,Graduate,No,Hybrid,Sales,No
+322,No,3,Post Graduate,No,Office,Operations,Yes
+323,No,2,Post Graduate,No,Office,Finance,No
+324,Yes,2,Graduate,Yes,Office,Finance,No
+325,No,5,Post Graduate,No,Office,Sales,No
+326,No,3,Graduate,No,Office,IT,Yes
+327,Yes,1,Post Graduate,Yes,Office,HR,Yes
+328,No,3,Graduate,No,Office,Operations,No
+329,No,4,Graduate,No,Office,HR,No
+330,No,0,Graduate,No,Office,IT,No
+331,No,4,Non Graduate,Yes,Office,Finance,No
+332,No,4,Graduate,No,Hybrid,Sales,No
+333,No,0,Post Graduate,No,Office,IT,No
+334,No,4,Post Graduate,No,Office,IT,No
+335,No,1,Graduate,Yes,Office,HR,No
+336,No,5,Graduate,No,Office,HR,Yes
+337,Yes,0,Post Graduate,Yes,Office,HR,No
+338,No,3,Post Graduate,No,Hybrid,Operations,No
+339,Yes,1,Graduate,Yes,Office,Operations,Yes
+340,Yes,1,Post Graduate,No,Office,Finance,No
+341,Yes,0,Graduate,No,Office,Sales,No
+342,No,2,Graduate,No,Hybrid,HR,Yes
+343,No,3,Non Graduate,Yes,Office,HR,No
+344,No,1,Graduate,Yes,Office,Sales,Yes
+345,Yes,3,Graduate,No,Hybrid,Finance,No
+346,No,5,Graduate,No,Office,IT,No
+347,Yes,0,Post Graduate,Yes,Office,IT,No
+348,No,2,Graduate,Yes,Office,Finance,Yes
+349,Yes,0,Graduate,No,Office,Finance,Yes
+350,Yes,1,Graduate,Yes,Office,Sales,Yes
+351,No,1,Graduate,No,Office,Finance,No
+352,No,1,Non Graduate,Yes,Hybrid,Finance,No
+353,No,2,Post Graduate,No,Office,Finance,No
+354,No,2,Graduate,No,Hybrid,Operations,Yes
+355,No,1,Non Graduate,No,Hybrid,HR,No
+356,Yes,3,Non Graduate,No,Office,HR,No
+357,No,1,Post Graduate,Yes,Office,HR,Yes
+358,Yes,4,Post Graduate,Yes,Hybrid,HR,Yes
+359,No,5,Graduate,Yes,Hybrid,Finance,No
+360,Yes,1,Post Graduate,Yes,Office,IT,No
+361,Yes,5,Graduate,Yes,Hybrid,IT,No
+362,No,2,Non Graduate,No,Hybrid,HR,No
+363,No,3,Non Graduate,Yes,Office,HR,No
+364,Yes,1,Graduate,Yes,Office,Operations,Yes
+365,No,5,Graduate,No,Office,IT,No
+366,Yes,4,Graduate,Yes,Office,HR,Yes
+367,No,2,Graduate,Yes,Hybrid,Finance,No
+368,No,1,Graduate,Yes,Hybrid,Finance,No
+369,No,4,Graduate,No,Hybrid,Finance,No
+370,Yes,1,Graduate,No,Hybrid,Sales,No
+371,No,5,Post Graduate,No,Office,Sales,No
+372,No,4,Graduate,No,Office,IT,No
+373,Yes,2,Non Graduate,No,Office,Finance,Yes
+374,No,4,Graduate,Yes,Hybrid,IT,Yes
+375,No,4,Graduate,Yes,Hybrid,Operations,No
+376,Yes,5,Graduate,No,Office,Finance,No
+377,Yes,2,Non Graduate,No,Office,IT,Yes
+378,No,2,Graduate,Yes,Office,Finance,No
+379,No,4,Non Graduate,Yes,Hybrid,Finance,Yes
+380,No,5,Graduate,Yes,Office,Finance,No
+381,No,2,Non Graduate,No,Hybrid,Operations,No
+382,No,2,Graduate,Yes,Hybrid,HR,No
+383,No,2,Graduate,No,Office,Sales,Yes
+384,No,2,Graduate,Yes,Office,IT,Yes
+385,No,4,Post Graduate,No,Office,HR,Yes
+386,No,5,Post Graduate,No,Office,HR,No
+387,No,3,Graduate,No,Hybrid,HR,Yes
+388,No,1,Graduate,No,Office,HR,No
+389,No,1,Graduate,Yes,Hybrid,Operations,No
+390,No,5,Non Graduate,No,Hybrid,HR,No
+391,No,1,Post Graduate,Yes,Office,Finance,No
+392,No,4,Non Graduate,Yes,Office,Finance,No
+393,No,5,Post Graduate,No,Hybrid,Operations,Yes
+394,No,5,Graduate,No,Office,Operations,No
+395,No,5,Graduate,Yes,Office,HR,No
+396,No,5,Graduate,Yes,Hybrid,IT,No
+397,No,2,Graduate,No,Office,HR,Yes
+398,Yes,1,Graduate,Yes,Hybrid,IT,No
+399,No,5,Graduate,No,Office,Sales,No
+400,No,5,Graduate,No,Office,Finance,No
+401,No,1,Post Graduate,No,Hybrid,HR,No
+402,Yes,4,Non Graduate,No,Office,Sales,No
+403,Yes,3,Post Graduate,Yes,Hybrid,HR,No
+404,Yes,0,Non Graduate,No,Office,IT,Yes
+405,No,0,Graduate,No,Office,IT,Yes
+406,No,2,Post Graduate,No,Office,IT,Yes
+407,No,5,Graduate,Yes,Office,Operations,No
+408,Yes,2,Post Graduate,Yes,Hybrid,Sales,Yes
+409,Yes,3,Non Graduate,No,Office,HR,No
+410,No,2,Non Graduate,No,Office,Finance,No
+411,No,2,Graduate,No,Hybrid,Finance,Yes
+412,No,1,Graduate,No,Office,HR,Yes
+413,No,5,Graduate,Yes,Office,Sales,No
+414,Yes,1,Post Graduate,No,Office,IT,No
+415,Yes,1,Graduate,Yes,Office,IT,No
+416,No,3,Graduate,Yes,Office,Operations,No
+417,Yes,1,Graduate,No,Office,Sales,No
+418,No,3,Graduate,No,Office,Operations,No
+419,No,1,Post Graduate,Yes,Office,HR,No
+420,No,5,Graduate,Yes,Hybrid,Sales,No
+421,No,5,Non Graduate,No,Office,IT,No
+422,No,2,Post Graduate,No,Office,IT,No
+423,Yes,3,Graduate,No,Hybrid,IT,Yes
+424,No,5,Graduate,No,Office,IT,No
+425,No,1,Graduate,Yes,Hybrid,Operations,No
+426,Yes,0,Post Graduate,No,Office,Sales,Yes
+427,No,3,Graduate,No,Office,HR,No
+428,Yes,1,Graduate,Yes,Office,Sales,No
+429,No,0,Graduate,Yes,Office,Operations,Yes
+430,Yes,0,Non Graduate,No,Hybrid,Operations,Yes
+431,Yes,4,Graduate,Yes,Office,Operations,No
+432,No,2,Post Graduate,Yes,Office,HR,No
+433,No,5,Post Graduate,Yes,Hybrid,HR,Yes
+434,No,3,Post Graduate,Yes,Hybrid,HR,Yes
+435,Yes,5,Post Graduate,Yes,Hybrid,IT,Yes
+436,No,1,Non Graduate,No,Office,IT,No
+437,No,4,Post Graduate,Yes,Hybrid,Operations,Yes
+438,No,2,Post Graduate,No,Office,IT,No
+439,Yes,5,Graduate,Yes,Office,IT,Yes
+440,No,3,Non Graduate,No,Hybrid,Sales,No
+441,No,0,Post Graduate,No,Office,Operations,No
+442,No,1,Graduate,No,Hybrid,Sales,No
+443,No,1,Graduate,Yes,Hybrid,Finance,No
+444,No,5,Post Graduate,No,Office,Sales,Yes
+445,No,0,Graduate,Yes,Hybrid,Finance,No
+446,Yes,1,Graduate,No,Hybrid,Sales,Yes
+447,No,5,Graduate,Yes,Office,Finance,No
+448,Yes,3,Graduate,No,Office,IT,No
+449,No,2,Graduate,Yes,Office,Sales,Yes
+450,No,4,Post Graduate,Yes,Office,Sales,No
+451,Yes,0,Post Graduate,No,Office,Sales,No
+452,Yes,0,Post Graduate,Yes,Hybrid,Sales,No
+453,No,5,Graduate,No,Office,Finance,Yes
+454,No,5,Graduate,No,Hybrid,HR,No
+455,No,5,Graduate,Yes,Office,Sales,No
+456,No,5,Non Graduate,No,Office,HR,Yes
+457,No,1,Graduate,Yes,Office,Operations,Yes
+458,Yes,4,Post Graduate,No,Hybrid,HR,Yes
+459,No,1,Graduate,Yes,Office,IT,Yes
+460,Yes,1,Graduate,No,Office,IT,Yes
+461,No,0,Graduate,No,Office,Finance,No
+462,No,5,Graduate,No,Office,Finance,No
+463,No,3,Post Graduate,No,Hybrid,HR,Yes
+464,Yes,2,Graduate,No,Hybrid,Sales,No
+465,No,4,Post Graduate,No,Office,Operations,Yes
+466,No,4,Graduate,No,Office,Finance,No
+467,Yes,4,Graduate,No,Office,Finance,No
+468,No,4,Graduate,No,Hybrid,HR,No
+469,No,1,Post Graduate,No,Office,Finance,No
+470,Yes,4,Graduate,Yes,Office,Operations,No
+471,No,1,Post Graduate,Yes,Office,Finance,Yes
+472,Yes,5,Post Graduate,Yes,Office,Finance,Yes
+473,No,2,Graduate,Yes,Hybrid,Operations,No
+474,No,0,Graduate,Yes,Office,HR,No
+475,No,1,Post Graduate,Yes,Hybrid,IT,No
+476,Yes,4,Graduate,Yes,Office,HR,No
+477,No,2,Non Graduate,Yes,Hybrid,IT,No
+478,No,2,Post Graduate,Yes,Hybrid,HR,Yes
+479,Yes,2,Graduate,Yes,Office,Finance,No
+480,No,2,Post Graduate,No,Hybrid,IT,No
+481,No,4,Non Graduate,No,Hybrid,Operations,No
+482,No,2,Post Graduate,Yes,Office,Finance,No
+483,No,5,Post Graduate,Yes,Office,Finance,No
+484,No,3,Graduate,No,Hybrid,Finance,No
+485,No,0,Graduate,No,Office,HR,No
+486,No,2,Post Graduate,No,Office,Sales,No
+487,No,0,Non Graduate,Yes,Hybrid,Operations,No
+488,Yes,1,Graduate,No,Office,Finance,No
+489,No,3,Post Graduate,No,Office,IT,Yes
+490,No,1,Post Graduate,Yes,Office,IT,No
+491,Yes,2,Graduate,No,Office,HR,Yes
+492,Yes,3,Post Graduate,No,Office,Sales,Yes
+493,No,5,Graduate,No,Office,Operations,Yes
+494,Yes,2,Graduate,No,Office,HR,No
+495,No,0,Graduate,No,Office,IT,Yes
+496,No,1,Graduate,No,Office,Finance,No
+497,No,1,Post Graduate,Yes,Office,HR,Yes
+498,Yes,0,Post Graduate,No,Office,Operations,No
+499,Yes,1,Graduate,No,Office,Sales,No
+500,No,5,Graduate,Yes,Office,HR,No
+501,Yes,5,Post Graduate,No,Office,Finance,Yes
+502,No,5,Non Graduate,Yes,Office,Sales,No
+503,No,5,Graduate,Yes,Hybrid,IT,No
+504,Yes,5,Post Graduate,Yes,Office,Finance,Yes
+505,No,5,Graduate,Yes,Office,Sales,No
+506,No,0,Non Graduate,Yes,Hybrid,Sales,No
+507,No,4,Non Graduate,No,Office,Finance,No
+508,Yes,1,Graduate,No,Office,Operations,No
+509,No,3,Graduate,No,Hybrid,Sales,No
+510,Yes,4,Graduate,No,Office,Sales,No
+511,No,2,Graduate,No,Office,IT,Yes
+512,Yes,2,Post Graduate,No,Office,Operations,Yes
+513,No,3,Graduate,Yes,Office,HR,No
+514,No,3,Graduate,Yes,Office,Sales,No
+515,Yes,0,Graduate,No,Hybrid,Finance,Yes
+516,Yes,0,Post Graduate,Yes,Office,Operations,No
+517,No,1,Non Graduate,No,Office,IT,No
+518,No,4,Graduate,Yes,Office,Operations,No
+519,No,0,Non Graduate,Yes,Hybrid,Operations,Yes
+520,No,0,Post Graduate,Yes,Office,HR,No
+521,Yes,0,Graduate,No,Office,Operations,Yes
+522,Yes,4,Graduate,Yes,Office,Operations,Yes
+523,No,1,Graduate,No,Hybrid,IT,Yes
+524,Yes,4,Post Graduate,Yes,Hybrid,Finance,No
+525,Yes,1,Non Graduate,No,Office,IT,No
+526,No,1,Graduate,No,Office,HR,No
+527,Yes,3,Graduate,Yes,Office,Operations,No
+528,No,5,Non Graduate,Yes,Office,IT,No
+529,No,3,Graduate,No,Office,IT,No
+530,No,5,Graduate,No,Hybrid,Operations,Yes
+531,No,4,Graduate,No,Office,IT,No
+532,No,1,Non Graduate,No,Office,Finance,No
+533,No,5,Non Graduate,No,Office,IT,No
+534,No,0,Graduate,No,Hybrid,Operations,No
+535,No,2,Non Graduate,No,Office,HR,No
+536,No,3,Graduate,No,Office,Sales,Yes
+537,No,3,Graduate,Yes,Office,IT,Yes
+538,No,3,Graduate,No,Office,HR,No
+539,No,3,Graduate,No,Office,Sales,No
+540,No,3,Graduate,Yes,Hybrid,Operations,Yes
+541,No,1,Graduate,Yes,Hybrid,HR,No
+542,No,5,Graduate,Yes,Office,Operations,No
+543,No,5,Graduate,No,Hybrid,Finance,Yes
+544,No,3,Graduate,Yes,Office,Finance,No
+545,No,0,Post Graduate,No,Office,HR,Yes
+546,No,5,Non Graduate,Yes,Office,Operations,No
+547,No,5,Graduate,No,Office,HR,No
+548,No,1,Non Graduate,No,Office,Finance,Yes
+549,No,2,Graduate,Yes,Hybrid,HR,No
+550,No,5,Non Graduate,No,Hybrid,Finance,No
+551,No,5,Post Graduate,Yes,Hybrid,Finance,No
+552,No,2,Post Graduate,Yes,Hybrid,HR,Yes
+553,No,1,Graduate,No,Office,Finance,No
+554,No,5,Non Graduate,Yes,Hybrid,Sales,No
+555,No,3,Non Graduate,Yes,Office,Finance,No
+556,No,0,Graduate,No,Office,Finance,No
+557,No,2,Non Graduate,Yes,Office,Operations,No
+558,No,0,Graduate,Yes,Hybrid,Operations,No
+559,No,0,Graduate,No,Office,Operations,Yes
+560,No,2,Graduate,Yes,Office,Operations,Yes
+561,No,3,Post Graduate,No,Hybrid,Sales,No
+562,No,5,Graduate,Yes,Office,IT,No
+563,No,2,Graduate,Yes,Hybrid,Operations,No
+564,Yes,2,Non Graduate,Yes,Office,Finance,Yes
+565,No,4,Graduate,No,Office,Operations,No
+566,No,5,Post Graduate,No,Office,Sales,No
+567,No,0,Graduate,No,Hybrid,IT,Yes
+568,No,5,Graduate,No,Hybrid,Operations,No
+569,No,4,Graduate,Yes,Office,Operations,No
+570,No,2,Non Graduate,No,Office,IT,Yes
+571,No,1,Graduate,No,Hybrid,Operations,No
+572,No,0,Graduate,No,Office,IT,No
+573,No,2,Graduate,Yes,Office,Sales,Yes
+574,No,4,Graduate,Yes,Hybrid,HR,No
+575,No,2,Non Graduate,No,Hybrid,Operations,Yes
+576,No,4,Graduate,No,Hybrid,HR,No
+577,No,2,Graduate,Yes,Hybrid,Operations,Yes
+578,No,5,Post Graduate,No,Office,Operations,Yes
+579,No,2,Post Graduate,Yes,Hybrid,HR,No
+580,No,5,Graduate,No,Office,IT,No
+581,No,5,Graduate,No,Office,Sales,No
+582,No,5,Graduate,No,Office,IT,No
+583,No,2,Post Graduate,Yes,Office,Sales,No
+584,No,0,Post Graduate,No,Office,HR,No
+585,No,3,Graduate,Yes,Office,IT,No
+586,Yes,1,Post Graduate,No,Office,Finance,Yes
+587,No,0,Post Graduate,Yes,Office,Operations,No
+588,Yes,3,Non Graduate,No,Office,Sales,Yes
+589,Yes,4,Graduate,Yes,Hybrid,HR,No
+590,No,4,Graduate,Yes,Office,Operations,No
+591,Yes,5,Post Graduate,Yes,Office,IT,No
+592,No,4,Post Graduate,No,Office,Operations,No
+593,Yes,5,Post Graduate,No,Office,HR,No
+594,No,5,Graduate,No,Office,Finance,No
+595,No,1,Non Graduate,No,Office,Sales,No
+596,No,0,Graduate,No,Hybrid,HR,Yes
+597,No,1,Post Graduate,Yes,Office,Sales,No
+598,Yes,5,Non Graduate,No,Office,Finance,Yes
+599,No,0,Graduate,No,Hybrid,HR,Yes
+600,Yes,1,Graduate,Yes,Office,Finance,No
+601,No,0,Graduate,No,Office,Operations,No
+602,No,4,Non Graduate,Yes,Office,IT,No
+603,No,4,Graduate,Yes,Hybrid,Finance,Yes
+604,No,5,Graduate,No,Office,HR,No
+605,Yes,0,Non Graduate,Yes,Hybrid,HR,Yes
+606,Yes,2,Post Graduate,Yes,Hybrid,IT,No
+607,No,0,Non Graduate,No,Hybrid,Sales,No
+608,No,3,Post Graduate,No,Office,HR,No
+609,Yes,5,Graduate,No,Office,Finance,No
+610,No,4,Post Graduate,No,Hybrid,IT,No
+611,No,0,Graduate,Yes,Office,Finance,No
+612,No,2,Graduate,Yes,Office,HR,Yes
+613,No,2,Post Graduate,Yes,Hybrid,Sales,No
+614,No,4,Non Graduate,Yes,Hybrid,Finance,No
+615,No,4,Non Graduate,No,Office,HR,No
+616,No,3,Post Graduate,No,Hybrid,HR,No
+617,No,0,Graduate,No,Office,Sales,No
+618,No,1,Graduate,No,Hybrid,Sales,Yes
+619,Yes,0,Graduate,Yes,Office,Operations,Yes
+620,Yes,0,Graduate,Yes,Office,HR,No
+621,Yes,0,Non Graduate,Yes,Office,Operations,No
+622,Yes,3,Non Graduate,Yes,Office,Finance,No
+623,Yes,5,Post Graduate,No,Office,IT,No
+624,Yes,1,Non Graduate,Yes,Office,IT,Yes
+625,Yes,1,Non Graduate,Yes,Hybrid,Operations,Yes
+626,Yes,0,Non Graduate,Yes,Hybrid,Finance,Yes
+627,No,4,Graduate,Yes,Office,Sales,No
+628,No,4,Graduate,Yes,Hybrid,IT,No
+629,No,5,Non Graduate,Yes,Hybrid,IT,No
+630,Yes,0,Graduate,Yes,Office,Finance,No
+631,No,3,Graduate,Yes,Office,Finance,No
+632,Yes,0,Graduate,No,Office,Operations,No
+633,Yes,0,Graduate,No,Hybrid,Finance,No
+634,Yes,0,Graduate,No,Office,IT,No
+635,No,1,Graduate,Yes,Hybrid,Finance,Yes
+636,Yes,4,Non Graduate,No,Office,IT,Yes
+637,No,2,Graduate,No,Hybrid,Sales,Yes
+638,No,2,Non Graduate,Yes,Hybrid,HR,Yes
+639,No,3,Graduate,No,Hybrid,Operations,No
+640,Yes,5,Graduate,No,Office,Finance,No
+641,No,2,Non Graduate,No,Hybrid,HR,No
+642,No,5,Non Graduate,Yes,Office,HR,No
+643,No,2,Graduate,Yes,Office,IT,No
+644,No,3,Non Graduate,Yes,Office,Finance,Yes
+645,No,4,Post Graduate,No,Hybrid,Sales,No
+646,No,3,Graduate,No,Office,Sales,No
+647,No,0,Graduate,Yes,Hybrid,HR,No
+648,No,1,Post Graduate,Yes,Hybrid,IT,No
+649,No,4,Graduate,Yes,Office,HR,Yes
+650,Yes,1,Post Graduate,Yes,Office,HR,Yes
+651,No,0,Graduate,No,Office,Operations,No
+652,No,5,Graduate,No,Office,HR,No
+653,No,0,Post Graduate,Yes,Hybrid,Sales,No
+654,No,4,Graduate,Yes,Hybrid,Operations,No
+655,No,3,Graduate,No,Hybrid,Operations,No
+656,No,0,Graduate,Yes,Office,IT,No
+657,No,4,Graduate,No,Hybrid,HR,No
+658,No,5,Graduate,No,Office,IT,No
+659,Yes,5,Post Graduate,No,Office,Sales,No
+660,No,1,Graduate,No,Office,Sales,No
+661,No,3,Graduate,No,Office,Sales,No
+662,No,0,Non Graduate,Yes,Office,Finance,No
+663,No,3,Post Graduate,No,Office,Finance,Yes
+664,No,5,Non Graduate,No,Office,IT,Yes
+665,No,2,Post Graduate,No,Hybrid,Operations,No
+666,No,2,Graduate,Yes,Office,Finance,No
+667,No,4,Non Graduate,No,Office,Finance,No
+668,Yes,0,Post Graduate,No,Office,Sales,Yes
+669,No,2,Post Graduate,No,Office,HR,Yes
+670,No,1,Non Graduate,Yes,Office,IT,Yes
+671,No,2,Graduate,No,Office,IT,Yes
+672,No,5,Post Graduate,Yes,Hybrid,IT,Yes
+673,No,1,Graduate,No,Hybrid,Sales,No
+674,No,2,Graduate,Yes,Hybrid,Finance,Yes
+675,No,1,Post Graduate,No,Office,Sales,No
+676,No,3,Graduate,Yes,Office,Operations,Yes
+677,Yes,3,Graduate,Yes,Office,Operations,Yes
+678,No,1,Graduate,Yes,Office,Finance,No
+679,Yes,1,Post Graduate,No,Hybrid,Sales,Yes
+680,No,2,Post Graduate,No,Hybrid,IT,No
+681,Yes,2,Non Graduate,No,Office,HR,Yes
+682,No,1,Post Graduate,No,Office,Sales,Yes
+683,Yes,5,Graduate,Yes,Hybrid,Operations,Yes
+684,No,5,Non Graduate,Yes,Office,IT,No
+685,No,3,Graduate,No,Hybrid,IT,No
+686,No,5,Post Graduate,No,Office,Finance,Yes
+687,No,1,Non Graduate,No,Hybrid,Sales,Yes
+688,Yes,0,Graduate,Yes,Hybrid,IT,No
+689,No,3,Graduate,No,Hybrid,HR,Yes
+690,No,1,Graduate,No,Office,Operations,No
+691,No,1,Non Graduate,No,Office,IT,No
+692,No,3,Post Graduate,Yes,Office,Finance,No
+693,Yes,4,Post Graduate,No,Office,Sales,No
+694,Yes,1,Post Graduate,No,Hybrid,Operations,Yes
+695,Yes,2,Graduate,No,Hybrid,Operations,Yes
+696,No,5,Post Graduate,No,Hybrid,HR,No
+697,No,4,Graduate,No,Office,HR,No
+698,No,2,Graduate,Yes,Hybrid,IT,Yes
+699,No,3,Graduate,Yes,Office,Finance,No
+700,No,4,Post Graduate,Yes,Hybrid,HR,No
+701,Yes,1,Post Graduate,Yes,Hybrid,Finance,No
+702,Yes,1,Graduate,Yes,Hybrid,IT,No
+703,Yes,2,Post Graduate,Yes,Hybrid,Operations,No
+704,No,4,Post Graduate,No,Office,Finance,No
+705,Yes,1,Graduate,Yes,Office,HR,Yes
+706,Yes,0,Graduate,Yes,Office,HR,Yes
+707,No,3,Graduate,No,Office,Operations,No
+708,No,5,Post Graduate,No,Office,HR,No
+709,No,4,Non Graduate,No,Office,Sales,Yes
+710,No,2,Post Graduate,No,Hybrid,Operations,Yes
+711,No,3,Non Graduate,Yes,Hybrid,Sales,No
+712,No,5,Graduate,Yes,Hybrid,HR,Yes
+713,No,5,Graduate,Yes,Hybrid,Finance,Yes
+714,No,2,Graduate,No,Office,Operations,Yes
+715,No,4,Post Graduate,No,Office,Sales,Yes
+716,Yes,4,Post Graduate,Yes,Office,HR,No
+717,No,0,Post Graduate,No,Hybrid,Sales,No
+718,No,4,Graduate,Yes,Office,HR,No
+719,No,2,Graduate,Yes,Office,Finance,Yes
+720,No,2,Post Graduate,Yes,Hybrid,Operations,Yes
+721,Yes,1,Graduate,Yes,Hybrid,Operations,No
+722,Yes,3,Graduate,No,Office,Finance,No
+723,Yes,0,Graduate,Yes,Office,Operations,No
+724,No,3,Non Graduate,Yes,Office,Finance,No
+725,Yes,1,Graduate,No,Office,Finance,Yes
+726,Yes,1,Graduate,Yes,Office,HR,No
+727,No,3,Post Graduate,No,Office,Finance,No
+728,No,1,Graduate,No,Office,Sales,Yes
+729,No,0,Graduate,Yes,Office,IT,No
+730,No,5,Non Graduate,No,Office,HR,Yes
+731,No,3,Graduate,No,Hybrid,Finance,No
+732,No,1,Graduate,No,Hybrid,Sales,No
+733,No,3,Post Graduate,No,Hybrid,IT,No
+734,No,4,Graduate,Yes,Office,HR,No
+735,No,3,Graduate,Yes,Hybrid,IT,No
+736,No,2,Graduate,No,Office,Finance,No
+737,No,2,Non Graduate,No,Office,Operations,Yes
+738,Yes,2,Post Graduate,Yes,Hybrid,HR,Yes
+739,Yes,5,Post Graduate,Yes,Office,HR,No
+740,Yes,5,Post Graduate,Yes,Office,Operations,No
+741,No,1,Graduate,Yes,Hybrid,Finance,No
+742,Yes,5,Post Graduate,No,Hybrid,HR,Yes
+743,Yes,0,Non Graduate,No,Hybrid,HR,No
+744,No,1,Graduate,No,Hybrid,IT,Yes
+745,No,2,Graduate,Yes,Office,HR,No
+746,No,1,Non Graduate,No,Hybrid,HR,No
+747,No,0,Post Graduate,No,Hybrid,HR,No
+748,No,4,Graduate,No,Office,Sales,No
+749,Yes,4,Graduate,No,Hybrid,Sales,No
+750,No,5,Graduate,Yes,Hybrid,Finance,No
+751,No,3,Graduate,No,Hybrid,Operations,No
+752,No,2,Post Graduate,Yes,Hybrid,Sales,No
+753,No,0,Post Graduate,No,Office,Operations,Yes
+754,No,1,Graduate,No,Hybrid,HR,No
+755,No,0,Non Graduate,No,Office,IT,No
+756,No,0,Non Graduate,No,Office,IT,No
+757,Yes,3,Graduate,No,Office,Finance,No
+758,Yes,3,Post Graduate,Yes,Office,IT,Yes
+759,No,4,Post Graduate,No,Office,Operations,No
+760,Yes,2,Graduate,No,Office,Finance,No
+761,No,1,Post Graduate,Yes,Hybrid,Operations,No
+762,No,2,Graduate,Yes,Office,Operations,Yes
+763,No,0,Non Graduate,No,Hybrid,Sales,No
+764,Yes,5,Non Graduate,Yes,Hybrid,Operations,Yes
+765,No,0,Graduate,No,Office,Sales,Yes
+766,No,3,Post Graduate,Yes,Office,HR,Yes
+767,No,4,Graduate,No,Office,Finance,No
+768,No,3,Graduate,No,Office,IT,No
+769,Yes,1,Graduate,No,Office,Sales,No
+770,No,5,Non Graduate,Yes,Hybrid,Sales,No
+771,Yes,2,Graduate,Yes,Office,Operations,Yes
+772,No,0,Graduate,No,Hybrid,Sales,No
+773,No,2,Graduate,No,Office,HR,Yes
+774,No,2,Graduate,Yes,Hybrid,IT,No
+775,Yes,1,Graduate,No,Hybrid,IT,Yes
+776,No,2,Post Graduate,Yes,Hybrid,HR,No
+777,No,0,Graduate,No,Office,Sales,No
+778,No,0,Post Graduate,No,Hybrid,HR,Yes
+779,Yes,0,Post Graduate,Yes,Office,HR,No
+780,No,5,Graduate,No,Office,Sales,No
+781,No,1,Non Graduate,No,Office,Operations,No
+782,No,3,Graduate,No,Office,Finance,Yes
+783,No,2,Graduate,No,Hybrid,HR,No
+784,No,3,Graduate,No,Office,IT,No
+785,No,2,Graduate,Yes,Office,Sales,Yes
+786,No,0,Non Graduate,No,Office,Operations,No
+787,No,0,Graduate,Yes,Office,HR,Yes
+788,No,1,Post Graduate,No,Office,Finance,Yes
+789,Yes,1,Post Graduate,No,Office,Operations,Yes
+790,Yes,1,Non Graduate,Yes,Hybrid,HR,Yes
+791,No,2,Non Graduate,No,Office,Sales,Yes
+792,No,0,Graduate,No,Office,HR,No
+793,Yes,5,Graduate,Yes,Hybrid,HR,Yes
+794,No,0,Non Graduate,No,Hybrid,Operations,No
+795,Yes,1,Graduate,No,Office,Finance,Yes
+796,No,3,Non Graduate,No,Office,IT,No
+797,No,2,Graduate,Yes,Office,Finance,No
+798,Yes,1,Non Graduate,Yes,Office,IT,No
+799,No,4,Graduate,Yes,Office,Finance,No
+800,Yes,0,Post Graduate,No,Office,Sales,Yes
+801,No,5,Graduate,No,Office,HR,No
+802,Yes,0,Non Graduate,Yes,Office,Operations,No
+803,No,1,Graduate,Yes,Hybrid,IT,Yes
+804,Yes,1,Non Graduate,Yes,Hybrid,Sales,No
+805,Yes,2,Graduate,Yes,Office,Sales,Yes
+806,No,2,Non Graduate,Yes,Office,Operations,No
+807,No,5,Post Graduate,No,Office,IT,No
+808,No,2,Non Graduate,Yes,Office,Sales,No
+809,Yes,1,Graduate,No,Hybrid,Sales,Yes
+810,No,0,Post Graduate,No,Hybrid,Operations,No
+811,No,4,Graduate,No,Office,HR,No
+812,No,5,Graduate,No,Hybrid,IT,No
+813,No,2,Graduate,Yes,Office,Finance,No
+814,Yes,5,Graduate,Yes,Office,IT,No
+815,No,4,Graduate,No,Hybrid,Sales,Yes
+816,No,5,Post Graduate,No,Office,IT,Yes
+817,Yes,0,Graduate,No,Hybrid,Finance,Yes
+818,No,1,Post Graduate,Yes,Office,IT,Yes
+819,Yes,1,Graduate,No,Hybrid,Finance,No
+820,No,2,Graduate,Yes,Office,Operations,No
+821,Yes,2,Post Graduate,Yes,Office,HR,No
+822,No,2,Graduate,No,Hybrid,Sales,Yes
+823,No,4,Graduate,Yes,Office,Sales,Yes
+824,No,4,Post Graduate,Yes,Office,Operations,No
+825,Yes,4,Graduate,Yes,Office,Finance,No
+826,No,1,Non Graduate,No,Office,Finance,Yes
+827,No,3,Graduate,No,Office,IT,Yes
+828,No,3,Graduate,Yes,Hybrid,Finance,Yes
+829,No,4,Post Graduate,No,Office,HR,No
+830,No,5,Graduate,No,Office,Finance,No
+831,No,0,Non Graduate,Yes,Office,Finance,No
+832,No,5,Graduate,Yes,Hybrid,HR,No
+833,No,2,Graduate,No,Office,Finance,No
+834,No,4,Graduate,Yes,Hybrid,Operations,No
+835,No,0,Graduate,No,Hybrid,Sales,Yes
+836,Yes,2,Non Graduate,Yes,Hybrid,Sales,No
+837,No,5,Non Graduate,No,Office,IT,Yes
+838,No,3,Non Graduate,No,Hybrid,HR,Yes
+839,No,2,Graduate,No,Office,Finance,No
+840,No,0,Graduate,No,Office,Operations,Yes
+841,No,1,Graduate,No,Office,Operations,Yes
+842,No,4,Non Graduate,Yes,Office,Sales,No
+843,No,4,Post Graduate,No,Hybrid,IT,No
+844,Yes,2,Graduate,No,Office,HR,No
+845,No,4,Graduate,No,Hybrid,Operations,No
+846,Yes,0,Non Graduate,No,Office,HR,No
+847,No,0,Post Graduate,No,Office,Sales,Yes
+848,No,2,Graduate,Yes,Office,HR,Yes
+849,No,0,Non Graduate,Yes,Office,HR,No
+850,No,3,Graduate,No,Office,HR,No
+851,No,1,Graduate,No,Hybrid,Finance,No
+852,No,1,Graduate,No,Office,Finance,No
+853,Yes,1,Graduate,No,Hybrid,Sales,Yes
+854,No,0,Graduate,Yes,Hybrid,IT,No
+855,No,3,Non Graduate,No,Hybrid,IT,No
+856,No,3,Graduate,No,Office,Operations,No
+857,Yes,1,Graduate,No,Hybrid,Sales,No
+858,No,4,Post Graduate,Yes,Office,HR,No
+859,No,4,Post Graduate,Yes,Hybrid,IT,Yes
+860,No,4,Graduate,No,Hybrid,Sales,Yes
+861,Yes,5,Graduate,No,Hybrid,Finance,Yes
+862,No,3,Non Graduate,No,Office,Finance,No
+863,No,1,Graduate,No,Office,Operations,No
+864,No,4,Graduate,Yes,Hybrid,Sales,No
+865,No,5,Graduate,No,Office,IT,No
+866,Yes,4,Non Graduate,Yes,Office,HR,No
+867,No,2,Non Graduate,No,Hybrid,HR,Yes
+868,Yes,0,Non Graduate,Yes,Office,HR,Yes
+869,Yes,0,Graduate,No,Office,Finance,Yes
+870,No,0,Non Graduate,No,Office,Finance,No
+871,Yes,1,Graduate,Yes,Office,Operations,No
+872,No,0,Graduate,No,Hybrid,Finance,No
+873,Yes,3,Graduate,No,Hybrid,Finance,Yes
+874,Yes,1,Graduate,No,Office,Operations,No
+875,No,5,Graduate,No,Hybrid,HR,Yes
+876,No,1,Post Graduate,No,Office,IT,No
+877,Yes,1,Non Graduate,Yes,Office,IT,Yes
+878,No,2,Graduate,Yes,Office,HR,No
+879,No,2,Graduate,No,Hybrid,HR,Yes
+880,No,2,Non Graduate,No,Office,Sales,No
+881,No,5,Graduate,Yes,Office,IT,No
+882,No,0,Graduate,Yes,Hybrid,IT,No
+883,No,3,Graduate,No,Office,HR,No
+884,Yes,2,Post Graduate,Yes,Office,Operations,Yes
+885,Yes,4,Non Graduate,Yes,Office,Sales,Yes
+886,No,0,Non Graduate,No,Hybrid,IT,No
+887,Yes,0,Non Graduate,No,Office,Operations,No
+888,Yes,3,Graduate,No,Office,HR,Yes
+889,No,0,Post Graduate,No,Hybrid,HR,Yes
+890,No,3,Graduate,No,Office,HR,No
+891,Yes,4,Post Graduate,No,Office,HR,Yes
+892,No,5,Graduate,No,Hybrid,Finance,Yes
+893,No,0,Graduate,No,Office,IT,No
+894,No,0,Post Graduate,No,Office,HR,Yes
+895,No,2,Graduate,Yes,Office,Operations,Yes
+896,Yes,1,Post Graduate,No,Office,Operations,No
+897,No,4,Graduate,No,Office,HR,Yes
+898,No,2,Graduate,No,Office,Finance,Yes
+899,Yes,2,Graduate,Yes,Office,Operations,No
+900,No,1,Post Graduate,Yes,Hybrid,Sales,No
+901,No,5,Post Graduate,Yes,Hybrid,Finance,No
+902,Yes,1,Post Graduate,No,Hybrid,Finance,Yes
+903,No,5,Graduate,No,Hybrid,IT,No
+904,No,3,Graduate,Yes,Office,Sales,No
+905,Yes,1,Non Graduate,No,Office,Finance,Yes
+906,No,1,Non Graduate,No,Hybrid,IT,No
+907,Yes,0,Graduate,Yes,Office,Finance,Yes
+908,Yes,3,Post Graduate,Yes,Office,Sales,No
+909,No,4,Non Graduate,No,Office,Operations,Yes
+910,No,1,Post Graduate,Yes,Hybrid,HR,No
+911,No,5,Graduate,No,Hybrid,Operations,Yes
+912,No,4,Graduate,Yes,Office,HR,No
+913,No,5,Graduate,No,Hybrid,IT,No
+914,No,4,Graduate,Yes,Office,IT,No
+915,No,4,Graduate,No,Hybrid,IT,No
+916,Yes,1,Post Graduate,Yes,Hybrid,Sales,Yes
+917,Yes,5,Graduate,No,Hybrid,Finance,No
+918,Yes,1,Post Graduate,Yes,Office,HR,No
+919,No,3,Graduate,No,Office,Sales,No
+920,No,4,Graduate,Yes,Hybrid,Finance,No
+921,No,4,Non Graduate,Yes,Hybrid,Finance,Yes
+922,No,0,Non Graduate,No,Hybrid,Finance,No
+923,No,0,Graduate,No,Office,Finance,No
+924,Yes,0,Graduate,No,Office,HR,No
+925,No,5,Graduate,No,Office,Operations,No
+926,Yes,2,Non Graduate,No,Hybrid,IT,No
+927,No,3,Post Graduate,Yes,Office,Finance,Yes
+928,No,4,Graduate,Yes,Office,Operations,No
+929,No,5,Non Graduate,No,Office,Operations,No
+930,Yes,3,Graduate,No,Office,IT,No
+931,No,2,Graduate,No,Hybrid,Sales,Yes
+932,No,2,Graduate,Yes,Office,Operations,No
+933,No,4,Graduate,No,Hybrid,HR,Yes
+934,No,3,Post Graduate,Yes,Office,Operations,No
+935,No,2,Non Graduate,Yes,Office,HR,Yes
+936,Yes,3,Post Graduate,No,Hybrid,IT,Yes
+937,No,1,Post Graduate,No,Office,HR,No
+938,Yes,1,Graduate,No,Office,Sales,No
+939,No,0,Non Graduate,No,Office,Sales,No
+940,No,2,Post Graduate,Yes,Office,Finance,No
+941,No,4,Graduate,No,Hybrid,Sales,Yes
+942,Yes,1,Graduate,No,Hybrid,HR,Yes
+943,No,0,Graduate,Yes,Office,Finance,No
+944,No,3,Non Graduate,Yes,Hybrid,Sales,Yes
+945,Yes,0,Non Graduate,No,Office,Sales,No
+946,No,3,Graduate,Yes,Office,Sales,Yes
+947,Yes,5,Graduate,No,Office,Sales,No
+948,No,3,Graduate,No,Office,IT,No
+949,No,5,Post Graduate,Yes,Hybrid,HR,No
+950,No,4,Graduate,No,Office,Finance,Yes
+951,No,5,Non Graduate,No,Hybrid,Finance,No
+952,No,2,Graduate,Yes,Hybrid,HR,No
+953,No,2,Graduate,Yes,Office,Finance,Yes
+954,No,4,Graduate,No,Office,IT,No
+955,No,3,Graduate,No,Office,Operations,No
+956,No,1,Graduate,Yes,Hybrid,Sales,No
+957,Yes,0,Non Graduate,No,Office,Finance,Yes
+958,No,5,Post Graduate,No,Hybrid,IT,No
+959,No,2,Graduate,No,Office,Finance,No
+960,No,5,Non Graduate,No,Office,Operations,No
+961,No,3,Graduate,No,Office,Finance,No
+962,Yes,0,Post Graduate,Yes,Office,HR,No
+963,No,2,Graduate,No,Office,HR,No
+964,Yes,1,Graduate,Yes,Hybrid,IT,No
+965,No,2,Graduate,Yes,Office,Finance,Yes
+966,No,3,Graduate,Yes,Office,Sales,Yes
+967,Yes,1,Post Graduate,No,Hybrid,IT,No
+968,Yes,5,Graduate,Yes,Office,Sales,Yes
+969,No,2,Graduate,No,Office,IT,No
+970,No,2,Non Graduate,No,Hybrid,IT,Yes
+971,No,5,Graduate,Yes,Hybrid,Operations,No
+972,No,5,Post Graduate,Yes,Hybrid,HR,No
+973,No,4,Graduate,Yes,Hybrid,IT,No
+974,No,5,Graduate,No,Office,HR,No
+975,No,2,Graduate,Yes,Office,Sales,No
+976,No,5,Graduate,No,Office,Finance,No
+977,No,1,Post Graduate,Yes,Office,IT,Yes
+978,No,4,Non Graduate,No,Office,IT,No
+979,No,0,Graduate,No,Office,Finance,No
+980,Yes,5,Graduate,No,Office,HR,Yes
+981,Yes,1,Post Graduate,Yes,Office,IT,Yes
+982,Yes,2,Non Graduate,Yes,Hybrid,IT,Yes
+983,No,2,Non Graduate,No,Office,IT,No
+984,No,5,Non Graduate,No,Hybrid,IT,No
+985,Yes,2,Post Graduate,Yes,Office,HR,Yes
+986,No,1,Non Graduate,No,Office,Operations,No
+987,No,3,Graduate,Yes,Hybrid,Sales,No
+988,Yes,1,Non Graduate,Yes,Office,IT,Yes
+989,No,4,Post Graduate,No,Hybrid,Operations,No
+990,No,1,Graduate,No,Office,HR,No
+991,No,3,Graduate,No,Office,Finance,No
+992,No,4,Graduate,No,Hybrid,Finance,No
+993,No,4,Post Graduate,Yes,Office,Sales,No
+994,No,2,Graduate,Yes,Office,Operations,Yes
+995,No,3,Post Graduate,No,Office,IT,Yes
+996,No,0,Non Graduate,Yes,Office,IT,No
+997,Yes,5,Post Graduate,No,Office,HR,No
+998,No,3,Graduate,No,Hybrid,IT,No
+999,Yes,4,Graduate,Yes,Office,Sales,No
+1000,No,1,Non Graduate,No,Hybrid,IT,Yes
